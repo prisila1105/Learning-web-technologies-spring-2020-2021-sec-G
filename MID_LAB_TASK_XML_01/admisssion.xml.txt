@@ -1,0 +1,7 @@
+<admissiondate>
+       <admissiondate sr='2' no='b'>
+	        <name>john carter</name>
+			<serial>23</serial>
+			<date>25/12/2015</date>
+		</admissiondate>	
+			

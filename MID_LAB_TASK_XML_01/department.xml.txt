@@ -1,0 +1,8 @@
+<department>
+       <department sr='3' no='c'>
+		<name>john doe</name>
+		<id>1</id>
+		<addresss>H#38,Bananai,Dhaka</addresss>
+		<depart>sales</depart>
+		<salary>20000</salary>
+	</department>

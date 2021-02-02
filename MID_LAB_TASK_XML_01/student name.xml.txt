@@ -1,0 +1,8 @@
+<students>
+        <student sr='1' no='a'>
+		<name>samsung</name>
+		<id>11</id>
+		<unitprice>35000</unitprice>
+		<stock>50</stock>
+		<status>1</status>
+	</student>
